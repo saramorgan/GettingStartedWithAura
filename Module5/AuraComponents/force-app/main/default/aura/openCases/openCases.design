@@ -1,0 +1,3 @@
+<design:component label="Configurable Open Cases Component">
+    <design:Attribute name="numRecords" label="Number of Records Returned" placeholder="10" />
+</design:component>

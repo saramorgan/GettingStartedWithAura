@@ -1,0 +1,34 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef1"
+            },
+            "Type": "Electrical",
+            "Reason": "Installation",
+            "Subject": "Seeking guidance on electrical wiring installation for GC5060",
+            "Status": "New"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef2"
+            },
+            "Type": "Other",
+            "Reason": "Feedback",
+            "Subject": "Maintenance guidelines for generator unclear",
+            "Status": "New"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CaseRef3"
+            },
+            "Type": "Mechanical",
+            "Reason": "Equipment Design",
+            "Subject": "Design issue with mechanical rotor",
+            "Status": "New"
+        }
+    ]
+}

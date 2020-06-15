@@ -1,0 +1,10 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes" access="global" >
+    <aura:attribute name="placeholder" type="String" default="343-343-3434"/>
+    <lightning:card  title="Hello">
+        <p class="slds-p-horizontal_small">
+            <lightning:input aura:id="phone" type="tel" label="Cell Phone Number" name="phone" placeholder="{!v.placeholder}" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"/>
+			<lightning:button variant="brand" label="Submit" title="Submit" onclick="{! c.handleClick }" />        
+        </p>
+    </lightning:card>  
+
+</aura:component>
