@@ -30,3 +30,14 @@ Refer to the following <a href="https://saramorgan.net/2020/06/08/post-3-customi
 5. Enforcing Apex Security
 6. What About Caching and Usability?
 
+## Working with Record Forms
+Refer to the following <a href="https://saramorgan.net/2020/06/16/post-4-customizing-salesforce-with-lightning-aura-components-series/" target="_blank"> blog post # 4 </a>.
+1. Working with Record Form Base Lightning Components
+2. Creating a New Quick Case Component
+3. Creating Quick Actions
+
+## Working with Salesforce Mobile
+Refer to the following <a href="https://saramorgan.net/2020/06/23/post-5-customizing-salesforce-with-lightning-aura-components-series/" target="_blank"> blog post # 5 </a>.
+1. Working with the new Salesforce Mobile App
+2. Using the Salesforce Mobile App QuickStart Page
+3. Wrapping Up
